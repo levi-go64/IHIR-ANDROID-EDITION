@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Naufal.png">
+<SubTexture name="Naufal ihir0000" x="914" y="0" width="318" height="940" frameX="-326" frameY="-57" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal ihir0001" x="601" y="0" width="313" height="943" frameX="-328" frameY="-54" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal ihir0002" x="297" y="0" width="304" height="947" frameX="-333" frameY="-50" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal ihir0003" x="0" y="0" width="297" height="949" frameX="-336" frameY="-47" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal ihir0004" x="0" y="0" width="297" height="949" frameX="-336" frameY="-47" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal ihir0005" x="0" y="0" width="297" height="949" frameX="-336" frameY="-47" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kiri0000" x="670" y="949" width="750" height="848" frameX="-79" frameY="-125" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kiri0001" x="0" y="1842" width="732" height="811" frameX="-98" frameY="-162" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kiri0002" x="732" y="1842" width="707" height="773" frameX="-123" frameY="-200" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kiri0003" x="732" y="1842" width="707" height="773" frameX="-123" frameY="-200" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kiri0004" x="732" y="1842" width="707" height="773" frameX="-123" frameY="-200" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kiri0005" x="732" y="1842" width="707" height="773" frameX="-123" frameY="-200" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal down0000" x="3128" y="0" width="748" height="645" frameX="-117" frameY="-324" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal down0001" x="2124" y="1842" width="705" height="675" frameX="-139" frameY="-294" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal down0002" x="1439" y="1842" width="685" height="685" frameX="-148" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal down0003" x="1439" y="1842" width="685" height="685" frameX="-148" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal down0004" x="1439" y="1842" width="685" height="685" frameX="-148" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal down0005" x="1439" y="1842" width="685" height="685" frameX="-148" frameY="-283" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal atas0000" x="1232" y="0" width="605" height="926" frameX="-216" frameY="-47" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal atas0001" x="1837" y="0" width="656" height="901" frameX="-188" frameY="-71" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal atas0002" x="0" y="949" width="670" height="893" frameX="-177" frameY="-79" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal atas0003" x="0" y="949" width="670" height="893" frameX="-177" frameY="-79" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal atas0004" x="0" y="949" width="670" height="893" frameX="-177" frameY="-79" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal atas0005" x="0" y="949" width="670" height="893" frameX="-177" frameY="-79" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kanan0000" x="1420" y="949" width="654" height="817" frameX="-196" frameY="-141" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kanan0001" x="2493" y="0" width="635" height="813" frameX="-196" frameY="-145" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kanan0002" x="2493" y="813" width="623" height="803" frameX="-195" frameY="-155" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kanan0003" x="2493" y="813" width="623" height="803" frameX="-195" frameY="-155" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kanan0004" x="2493" y="813" width="623" height="803" frameX="-195" frameY="-155" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="Naufal kanan0005" x="2493" y="813" width="623" height="803" frameX="-195" frameY="-155" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>
