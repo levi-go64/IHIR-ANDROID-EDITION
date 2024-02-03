@@ -1,0 +1,4 @@
+Value 1: Subtitle Text
+
+
+Value 2: Time Fade Out(Second)
