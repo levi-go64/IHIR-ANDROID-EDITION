@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Naufal ihir",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Naufal kiri",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Naufal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Naufal atas",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Naufal kanan",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Naufal",
+	"position": [
+		-150,
+		-80
+	],
+	"healthicon": "Naufal",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		0,
+		255
+	],
+	"camera_position": [
+		-30,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}
