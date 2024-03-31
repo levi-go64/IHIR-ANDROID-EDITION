@@ -209,7 +209,7 @@ class FreeplayState extends MusicBeatState
 		add(text);
 		
 		#if mobile
-		addVirtualPad(LEFT_FULL, A_B_C_X_Y);
+		addVirtualPad(NONE, A_B_C_D_V_X_Y_Z);
 		#end
 		
 		super.create();
